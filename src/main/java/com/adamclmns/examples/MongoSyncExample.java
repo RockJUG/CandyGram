@@ -7,40 +7,55 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * Using the Samples provided in Mongo-Sync's documentation
  * - http://mongodb.github.io/mongo-java-driver/3.9/driver/getting-started/quick-start/
  */
-public class MongoSyncExample implements AbstractExample {
+public class MongoSyncExample {
 
-    private static final Logger logger = LoggerFactory.getLogger(MongoJackExample.class);
+    private static final Logger logger = LoggerFactory.getLogger(MongoSyncExample.class);
+    // MongoDB Credentials are managed here -
+    private final String MONGO_HOST = "localhost";
+    private final String MONGO_PORT = "27017";
+    private final String MONGO_USER = "";
+    private final String MONGO_PASS = "";
+    private final String MONGO_PREFIX = "mongodb://";
 
-    public void run() {
-        MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
-        MongoDatabase database = mongoClient.getDatabase("candyGram");
-
-        MongoCollection<Document> collection = database.getCollection("candy");
-        logger.info("Connected to Mongo Instance");
-
-        Document kitkat = new Document("name", "kit-kat")
+    private List<Document> createDocumentsForInsert() {
+        Document kitkat = new Document("name", "kit-kat").append("id", 1L)
                 .append("tags", Arrays.asList("chocolate", "shareable", "crunchy"))
                 .append("price", 1.25).append("rating", 4 / 5);
 
-        Document twix = new Document("name", "twix")
+        Document twix = new Document("name", "twix").append("id", 2L)
                 .append("tags", Arrays.asList("chocolate", "caramel", "shareable", "cruncy"))
                 .append("price", 1.25).append("rating", 5 / 5);
 
-        Document snickers = new Document("name", "snickers")
+        Document snickers = new Document("name", "snickers").append("id", 3L)
                 .append("tags", Arrays.asList("chocolate", "caramel", "nuts", "chewy"))
                 .append("price", 1.25).append("rating", 4 / 5);
 
-        Document gummyWorms = new Document("name", "gummy worms")
+        Document gummyWorms = new Document("name", "gummy worms").append("id", 4L)
                 .append("tag", Arrays.asList("fruity", "sour", "shareable", "chewy", "large-size"))
                 .append("price", 2.50).append("rating", 3 / 5);
 
-        collection.insertMany(Arrays.asList(snickers, kitkat, twix));
-        collection.insertOne(gummyWorms);
+        return Arrays.asList(kitkat, twix, snickers, gummyWorms);
+    }
+
+    private MongoCollection<Document> getConnectionToCollection() {
+        MongoClient mongoClient = MongoClients.create(getConnectionString());
+        logger.info("Connected to Mongo Instance");
+        MongoDatabase database = mongoClient.getDatabase("candyGram");
+        return database.getCollection("mongoSyncExample");
+    }
+
+    public void run() {
+
+        MongoCollection<Document> collection = getConnectionToCollection();
+
+        collection.insertMany(createDocumentsForInsert());
+        //collection.insertOne();
 
         long count = collection.countDocuments();
         logger.info("Inserted " + count + " Documents");
@@ -57,13 +72,28 @@ public class MongoSyncExample implements AbstractExample {
         );
 
         logger.info("Results from Query: ");
-        MongoCursor<Document> cursor = selection.iterator();
-        while (cursor.hasNext()) {
-            logger.info(cursor.next().toJson());
+        for (Document document : selection) {
+            logger.info(document.toJson());
         }
 
         logger.info("Deleting \"twix\"...");
         collection.deleteOne(Filters.eq("name", "twix"));
         logger.info("Deleted a Document");
+    }
+
+    private String getConnectionString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append(MONGO_PREFIX);
+        if (MONGO_USER != null && !MONGO_USER.isEmpty()) {
+            sb.append(MONGO_USER);
+            if (MONGO_PASS != null && !MONGO_PASS.isEmpty()) {
+                sb.append(":").append(MONGO_PASS).append("@");
+            }
+        }
+        sb.append(MONGO_HOST);
+        sb.append(":").append(MONGO_PORT);
+
+
+        return sb.toString();
     }
 }
