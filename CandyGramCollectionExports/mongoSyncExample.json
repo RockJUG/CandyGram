@@ -1,0 +1,51 @@
+{
+  "_id": {
+    "$oid": "5c28f369e4b8a517f48fbfb6"
+  },
+  "name": "kit-kat",
+  "id": {
+    "$numberLong": "1"
+  },
+  "tags": [
+    "chocolate",
+    "shareable",
+    "crunchy"
+  ],
+  "price": 1.25,
+  "rating": 0
+}
+{
+  "_id": {
+    "$oid": "5c28f369e4b8a517f48fbfb8"
+  },
+  "name": "snickers",
+  "id": {
+    "$numberLong": "3"
+  },
+  "tags": [
+    "chocolate",
+    "caramel",
+    "nuts",
+    "chewy"
+  ],
+  "price": 1.25,
+  "rating": 0
+}
+{
+  "_id": {
+    "$oid": "5c28f369e4b8a517f48fbfb9"
+  },
+  "name": "gummy worms",
+  "id": {
+    "$numberLong": "4"
+  },
+  "tag": [
+    "fruity",
+    "sour",
+    "shareable",
+    "chewy",
+    "large-size"
+  ],
+  "price": 2.5,
+  "rating": 0
+}

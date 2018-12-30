@@ -1,0 +1,3098 @@
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c33"
+  },
+  "name": "100 Grand Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Caramel and crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c34"
+  },
+  "name": "3 Musketeers",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Aerated chocolate-flavored nougat with milk chocolate coating; also available in mint and caramel",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c35"
+  },
+  "name": "3 Musketeers Truffle Crisp",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Mars",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c36"
+  },
+  "name": "5 Star",
+  "distribution": [
+    "\"India",
+    " Malaysia",
+    " Brazil and the Philippines\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Caramel and nougat covered in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c37"
+  },
+  "name": "5th Avenue",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "Honeycombed crunchy peanut butter candy center in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c38"
+  },
+  "name": "Aero",
+  "distribution": [
+    "\"United Kingdom",
+    " New Zealand",
+    " Ireland",
+    " Mainland Europe",
+    " South Africa",
+    " Argentina",
+    " Australia",
+    " Middle East",
+    " Canada\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Frothy chocolate with \"\"bubbles\"\"\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c39"
+  },
+  "name": "Aero Caramel",
+  "distribution": [
+    "\"Canada",
+    " Ireland",
+    " New Zealand",
+    " United Kingdom",
+    " Japan\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Chocolate \"\"bubbles\"\" with a caramel layer in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c3a"
+  },
+  "name": "Aero Mint",
+  "distribution": [
+    "\"Canada",
+    " New Zealand",
+    " Ireland",
+    " United Kingdom",
+    " Australia\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Chocolate \"\"bubbles\"\" with a mint layer in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c3b"
+  },
+  "name": "Aero Orange",
+  "distribution": [
+    "\"Ireland",
+    " United Kingdom\""
+  ],
+  "manufacturer": "Nestle",
+  "description": "\"Chocolate \"\"Bubbles\"\" with an orange layer in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c3c"
+  },
+  "name": "After Eight",
+  "distribution": [
+    "\"Denmark",
+    " United States",
+    " Canada",
+    " United Kingdom",
+    " Ireland",
+    " South Africa",
+    " Middle East",
+    " France",
+    " Netherlands",
+    " Romania",
+    " Finland",
+    " Turkey",
+    " Norway",
+    " Germany",
+    " Poland",
+    " Sweden\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Dark chocolate with mint cream filling",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c3d"
+  },
+  "name": "Air Delight",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "Aerated milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c3e"
+  },
+  "name": "Albeni",
+  "distribution": [
+    "\"Turkey",
+    " Azerbaijan",
+    " Central Asia countries",
+    " Russia",
+    " US\""
+  ],
+  "manufacturer": "Ulker",
+  "description": "Chocolate bar with caramel waffle",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c3f"
+  },
+  "name": "Albert's Ice Cubes",
+  "distribution": [
+    "United States and Germany"
+  ],
+  "manufacturer": "\"Made by Nappo Moritz GimbH for R.I. Albert \u0026 Son, Inc\"",
+  "description": "Small chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c40"
+  },
+  "name": "Almond Joy",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Milk-chocolate covered coconut with whole almonds. Limited editions include chocolate (featuring chocolate-coconut filling) and piña colada (featuring pineapple-flavored coconut in chocolate)",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c41"
+  },
+  "name": "Amul Chocolate",
+  "distribution": [
+    "India"
+  ],
+  "manufacturer": "\"Anand Milk Union Limited, India\"",
+  "description": "\"Available in orange, milk and chocolate flavors\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c42"
+  },
+  "name": "Baby Ruth",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Caramel and nougat center with peanuts in compound chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c43"
+  },
+  "name": "Balisto",
+  "distribution": [
+    "\"Netherlands",
+    " Belgium",
+    " France",
+    " Germany\""
+  ],
+  "manufacturer": "Masterfoods",
+  "description": "Muesli covered in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c44"
+  },
+  "name": "Bar None",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Cocoa wafer, chocolate filling, peanuts and a milk chocolate coating\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c45"
+  },
+  "name": "Bar One",
+  "distribution": [
+    "\"India",
+    " South Africa\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Malted nougat with a caramel topping and covered in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c46"
+  },
+  "name": "Big Turk",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Turkish delight covered with milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c47"
+  },
+  "name": "Boost",
+  "distribution": [
+    "\"Australia",
+    " New Zealand",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c48"
+  },
+  "name": "Bounty",
+  "distribution": [
+    "\"New Zealand",
+    " Russia",
+    " Romania",
+    " Italy",
+    " United Kingdom",
+    " Ireland",
+    " Denmark",
+    " Norway",
+    " Canada",
+    " Australia",
+    " South Africa",
+    " France",
+    " Morocco",
+    " Netherlands",
+    " Belgium",
+    " Germany",
+    " Poland",
+    " Ukraine",
+    " Czech Republic",
+    " Turkey",
+    " India",
+    " Sweden\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Coconut filling covered with milk or plain chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c49"
+  },
+  "name": "Bournville",
+  "distribution": [
+    "\"United States",
+    " United Kingdom",
+    " Ireland",
+    " Middle East",
+    " India\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c4a"
+  },
+  "name": "Breakaway",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "A rectangular digestive biscuit covered in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c4b"
+  },
+  "name": "Bros",
+  "distribution": [
+    "Netherlands"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Aerated milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c4c"
+  },
+  "name": "Bros puur",
+  "distribution": [
+    "Netherlands"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Aerated dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c4d"
+  },
+  "name": "Bubu Lubu",
+  "distribution": [
+    "\"Mexico",
+    " United States\""
+  ],
+  "manufacturer": "Ricolino (Mexico)",
+  "description": "Strawberry gummy candy and marshmallow with chocolate-flavored coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c4e"
+  },
+  "name": "Bun",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Pearson's Candy Company",
+  "description": "\"Caramel, maple or vanilla centers covered with unsalted peanuts and milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c4f"
+  },
+  "name": "Butterfinger",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Honeycombed crunchy peanut butter candy center in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c50"
+  },
+  "name": "Cadbury Dairy Milk",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland",
+    " Australia",
+    " New Zealand",
+    " Canada",
+    " Pakistan",
+    " India",
+    " Malaysia",
+    " the Philippines\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c51"
+  },
+  "name": "Cadbury Fruit \u0026 Nut",
+  "distribution": [
+    "\"United States",
+    " Australia",
+    " Canada",
+    " New Zealand",
+    " United kingdom",
+    " India\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Milk chocolate with assorted fruits and nuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c52"
+  },
+  "name": "Cadbury Tempo",
+  "distribution": [
+    "South Africa"
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Shortcake biscuit and caramel covered in Cadbury's dairy milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c53"
+  },
+  "name": "Caramello",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United States\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Segmented, break apart bar with caramel center, covered in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c54"
+  },
+  "name": "Caramello Koala",
+  "distribution": [
+    "\"Australia",
+    " South Africa\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Koala shaped chocolate with caramel filling",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c55"
+  },
+  "name": "Caramilk",
+  "distribution": [
+    "\"Canada",
+    " Europe",
+    " South Africa\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Caramel-filled chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c56"
+  },
+  "name": "Caravan",
+  "distribution": [
+    "\"Canada",
+    " United States\""
+  ],
+  "manufacturer": "Lowney's Chocolates",
+  "description": "Caramel-filled candy bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c57"
+  },
+  "name": "Carlos V",
+  "distribution": [
+    "\"Mexico",
+    " Latin America\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c58"
+  },
+  "name": "Charleston Chew",
+  "distribution": [
+    "\"Canada",
+    " United States\""
+  ],
+  "manufacturer": "Tootsie Roll Industries",
+  "description": "\"Chocolate-, vanilla- and strawberry-flavored variants\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c59"
+  },
+  "name": "Cherry Ripe",
+  "distribution": [
+    "\"New Zealand",
+    " Australia\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Cherry and coconut bits in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c5a"
+  },
+  "name": "Chokito",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " Brazil",
+    " Switzerland\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Chocolate-covered caramel fudge with crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c5b"
+  },
+  "name": "Chomp",
+  "distribution": [
+    "\"United Kingdom",
+    " South Africa",
+    " Australia",
+    " Zimbabwe",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Caramel and wafer in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c5c"
+  },
+  "name": "Chunky",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Nestle",
+  "description": "Milk chocolate with peanuts and raisins",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c5d"
+  },
+  "name": "Clark Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Boyer",
+  "description": "Honeycombed peanut butter filling coated with chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c5e"
+  },
+  "name": "Coffee Crisp",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Milk chocolate with wafer crisps and coffee flavouring",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c5f"
+  },
+  "name": "Coffee Crisp Orange",
+  "distribution": [
+    "\"Canada",
+    " Europe\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c60"
+  },
+  "name": "Cow Chocolate",
+  "distribution": [
+    "Israel"
+  ],
+  "manufacturer": "Strauss-Elite",
+  "description": "\"Milk chocolate, available not just in bars but also in other candy forms; called Cow Chocolate because of the cow on the packaging; called \"\"Shokolad Parah\"\" in Hebrew\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c61"
+  },
+  "name": "Crachi",
+  "distribution": [
+    "Dominican Republic"
+  ],
+  "manufacturer": "Corte",
+  "description": "Made with locally produced chocolate from the Dominican Republic and crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c62"
+  },
+  "name": "Cri-Cri",
+  "distribution": [
+    "Venezuela"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Milk chocolate with crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c63"
+  },
+  "name": "Crispy Crunch",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Peanut butter and toffee mixture coated in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c64"
+  },
+  "name": "Crunch",
+  "distribution": [
+    "\"United States",
+    " Worldwide\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Milk chocolate with crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c65"
+  },
+  "name": "Crunchie",
+  "distribution": [
+    "\"New Zealand",
+    " United Kingdom",
+    " India",
+    " Ireland",
+    " Canada",
+    " Australia",
+    " South Africa\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Honeycomb (sponge) toffee covered with chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c66"
+  },
+  "name": "Crunky",
+  "distribution": [
+    "\"South Korea",
+    " Japan\""
+  ],
+  "manufacturer": "Lotte",
+  "description": "Rice crisps covered with chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c67"
+  },
+  "name": "Cup-o-Gold",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Adams and Brooks",
+  "description": "Chocolate cup with a marshmallow center with almonds and coconut",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c68"
+  },
+  "name": "Curly Wurly",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland",
+    " New Zealand",
+    " Australia",
+    " Netherlands\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Chocolate-covered caramel braid",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c69"
+  },
+  "name": "DAGOBA Chai chocolate",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Dagoba Chocolate",
+  "description": "Painted chocolate bar - chai tea spices in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c6a"
+  },
+  "name": "Daim",
+  "distribution": [
+    "\"Sweden",
+    " Europe",
+    " Middle East\""
+  ],
+  "manufacturer": "Kraft Foods",
+  "description": "Chocolate over crisp almond toffee",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c6b"
+  },
+  "name": "Double Decker",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Soft nougat top, with a crisped cereal base, covered in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c6c"
+  },
+  "name": "Dove Bar",
+  "distribution": [
+    "\"United States",
+    " Australia",
+    " Netherlands\""
+  ],
+  "manufacturer": "Mars",
+  "description": "\"Creamy milk and dark chocolate, with added varieties such as fruit and nut; the Mars equivalent to Cadburys Dairy Milk; called Galaxy in the United Kingdom\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c6d"
+  },
+  "name": "Dream",
+  "distribution": [
+    "\"Australia",
+    " New Zealand\""
+  ],
+  "manufacturer": "Cadbury[1]",
+  "description": "White chocolate[1]",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c6e"
+  },
+  "name": "Drifter",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Wafers and caramel in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c6f"
+  },
+  "name": "Duncan's",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "\"W \u0026 M Duncan and Company, best known as \"\"Duncan's of Edinburgh\"\"\"",
+  "description": "\"Milk chocolate bars with various ingredients: mint, toffee, ginger and hazelnut\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c70"
+  },
+  "name": "Eat-more",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Chewy dark toffee, peanuts and chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c71"
+  },
+  "name": "Excellence",
+  "distribution": [
+    "\"Switzerland",
+    " Canada\""
+  ],
+  "manufacturer": "Lindt \u0026 Sprüngli",
+  "description": "\"Rare ingredient chocolate bars - sea salt, roasted almonds and chilli dark chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c72"
+  },
+  "name": "Five Star Caramel",
+  "distribution": [
+    "\"United States",
+    " India\""
+  ],
+  "manufacturer": "\"Lake Champlain Chocolates, Cadbury\"",
+  "description": "Caramel with almonds and dark chocolate in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c73"
+  },
+  "name": "Flake",
+  "distribution": [
+    "\"New Zealand",
+    " United Kingdom",
+    " Ireland",
+    " Canada",
+    " Australia",
+    " South Africa\""
+  ],
+  "manufacturer": "Cadbury[2]",
+  "description": "\"Crumbly chocolate \"\"flake\"\"\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c74"
+  },
+  "name": "Forever Yours",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Mars",
+  "description": "Vanilla nougat and caramel in dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c75"
+  },
+  "name": "Freddo",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Milk chocolate in a frog shape",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c76"
+  },
+  "name": "Fry's Turkish Delight",
+  "distribution": [
+    "\"Australia",
+    " New Zealand",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Rosewater jelly in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c77"
+  },
+  "name": "Fudge",
+  "distribution": [
+    "\"New Zealand",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Fudge covered in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c78"
+  },
+  "name": "Galaxy",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland",
+    " the Isle of Man",
+    " the Middle East",
+    " Pakistan",
+    " India\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Milk chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c79"
+  },
+  "name": "Galaxy Caramel",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland",
+    " the Isle of Man",
+    " the Middle East",
+    " Pakistan",
+    " India\""
+  ],
+  "manufacturer": "Masterfoods",
+  "description": "Milk chocolate with a soft caramel filling",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c7a"
+  },
+  "name": "Galaxy Ripple",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland",
+    " the Isle of Man",
+    " the Middle East",
+    " Pakistan",
+    " India\""
+  ],
+  "manufacturer": "Masterfoods",
+  "description": "Folded and coated milk chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c7b"
+  },
+  "name": "Glosette",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Hershey (originally Nabisco)",
+  "description": "Milk chocolate covered raisins; also in peanuts and almonds",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c7c"
+  },
+  "name": "Golden Rough",
+  "distribution": [
+    "Australia"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Compounded chocolate round with coconut",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c7d"
+  },
+  "name": "Goobers",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Milk-chocolate covered peanuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c7e"
+  },
+  "name": "Grand Slam",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Chocolate bar with a multi ingredient middle consisting of nuts, caramel and crisp wafer\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c7f"
+  },
+  "name": "Green and Blacks",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Kraft Foods",
+  "description": "\"A variety of organic, flavored, luxury chocolate bars: dark, milk, white, ginger, almond, cherry, spices and butterscotch\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c80"
+  },
+  "name": "Hail",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hollywood Candy Co.",
+  "description": "Hazelnuts and milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c81"
+  },
+  "name": "Happy Hippo",
+  "distribution": [
+    "\"Germany",
+    " United Kingdom",
+    " Ireland",
+    " Mainland Europe\""
+  ],
+  "manufacturer": "Ferrero SpA",
+  "description": "\"A hippo-shaped wafer with hazelnut, chocolate, and milk-caramel cream filling\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c82"
+  },
+  "name": "Haviland Thin Mints",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Necco",
+  "description": "Peppermint cream filling in dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c83"
+  },
+  "name": "Haviland Wintergreen Patty",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Necco",
+  "description": "Bright pink wintergreen-flavored cream filling in dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c84"
+  },
+  "name": "Heath bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "Crunchy English-style almond toffee with milk chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c85"
+  },
+  "name": "Hershey Almond Toffee Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c86"
+  },
+  "name": "Hershey bar",
+  "distribution": [
+    "\"New Zealand",
+    " Canada",
+    " United States",
+    " United Kingdom",
+    " Australia",
+    " Ireland\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Solid milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c87"
+  },
+  "name": "Hershey bar with Almonds",
+  "distribution": [
+    "\"Canada",
+    " United States\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Solid milk chocolate with almonds",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c88"
+  },
+  "name": "Hershey's Creamy Caramel",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c89"
+  },
+  "name": "Hershey's Special Dark",
+  "distribution": [
+    "\"United States",
+    " New Zealand\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c8a"
+  },
+  "name": "Holly Bar",
+  "distribution": [
+    "Denmark"
+  ],
+  "manufacturer": "Toms International",
+  "description": "\"Hazelnuts, nougat, and milk chocolate bar\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c8b"
+  },
+  "name": "Idaho Spud",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Idaho Candy Company",
+  "description": "Chocolate marshmallow covered with chocolate and coconut",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c8c"
+  },
+  "name": "Intense Orange",
+  "distribution": [
+    "Switzerland"
+  ],
+  "manufacturer": "Lindt \u0026 Sprüngli",
+  "description": "Dark chocolate with candied orange rind and almonds",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c8d"
+  },
+  "name": "Ivory Mountain",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Chocolate with macadamia nuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c8e"
+  },
+  "name": "Jacek",
+  "distribution": [
+    "\"Poland",
+    " Europe\""
+  ],
+  "manufacturer": "Wawel",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c8f"
+  },
+  "name": "Jersey Milk",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Neilson",
+  "description": "Creamy solid milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c90"
+  },
+  "name": "Junior Caramels",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Small caramel creams in dark chocolate, boxed\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c91"
+  },
+  "name": "Karl Fazer Milk Chocolate",
+  "distribution": [
+    "Finland"
+  ],
+  "manufacturer": "Fazer",
+  "description": "Milk chocolate with various fillings",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c92"
+  },
+  "name": "Kinder Kinder Bueno",
+  "distribution": [
+    "\"Italy",
+    " Worldwide\""
+  ],
+  "manufacturer": "Ferrero SpA",
+  "description": "Kinder Bueno is a hazelnut cream filled wafer with a chocolate covering.",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c93"
+  },
+  "name": "Kit Kat",
+  "distribution": [
+    "\"United Kingdom",
+    " Worldwide\""
+  ],
+  "manufacturer": "\"Nestlé, Hershey in US\"",
+  "description": "\"Wafers in chocolate (over 100 varieties worldwide, most from Japan)\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c94"
+  },
+  "name": "Korkunov chocolate bars",
+  "distribution": [
+    "Russia"
+  ],
+  "manufacturer": "A. Korkunov",
+  "description": "\"Milk and dark chocolate bars, plain, or with almonds or hazelnuts\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c95"
+  },
+  "name": "Krackel",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Hershey[3]",
+  "description": "Milk chocolate with crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c96"
+  },
+  "name": "Krembanan",
+  "distribution": [
+    "Norway"
+  ],
+  "manufacturer": "Nidar",
+  "description": "\"Chocolate, gel and banana cream\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c97"
+  },
+  "name": "Kvikk Lunsj",
+  "distribution": [
+    "\"Norway",
+    " Sweden\""
+  ],
+  "manufacturer": "Freia",
+  "description": "\"A thickly coated, chocolate wafer, similar to Kit Kat in taste and design\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c98"
+  },
+  "name": "La Fama",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Palmer Candy Co.",
+  "description": "Caramel covered with milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c99"
+  },
+  "name": "Leah Bar",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Mars",
+  "description": "Chocolate with hazelnuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c9a"
+  },
+  "name": "Lindor",
+  "distribution": [
+    "\"Switzerland",
+    " Europe",
+    " Australia",
+    " United States",
+    " Canada",
+    " Japan\""
+  ],
+  "manufacturer": "Lindt \u0026 Sprüngli",
+  "description": "\"Many varieties, typically featuring a hollow chocolate ball with a smooth chocolate filling\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c9b"
+  },
+  "name": "Lion Bar",
+  "distribution": [
+    "\"United Kingdom",
+    " Europe",
+    " Middle East",
+    " Poland\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Wafers and crisped cereal with caramel in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c9c"
+  },
+  "name": "Lion Peanut",
+  "distribution": [
+    "\"United Kingdom",
+    " Europe",
+    " Middle East\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Chocolate-covered nougat, crisps and peanuts\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c9d"
+  },
+  "name": "Lotte's Ghana",
+  "distribution": [
+    "\"South Korea",
+    " Japan\""
+  ],
+  "manufacturer": "Lotte",
+  "description": "Milk chocolate with extra cacao",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c9e"
+  },
+  "name": "Lunch Bar",
+  "distribution": [
+    "South Africa"
+  ],
+  "manufacturer": "Cadbury's",
+  "description": "\"Milk chocolate with wafer biscuit, caramel, peanuts and crisped rice\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824c9f"
+  },
+  "name": "M\u0026S",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Marks \u0026 Spencer",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca0"
+  },
+  "name": "Macadamia",
+  "distribution": [
+    "Japan"
+  ],
+  "manufacturer": "Meiji",
+  "description": "Macadamia nut coated with milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca1"
+  },
+  "name": "Macadamia Nut",
+  "distribution": [
+    "Switzerland"
+  ],
+  "manufacturer": "Lindt \u0026 Sprüngli",
+  "description": "Milk chocolate with caramelized macadamia nut pieces",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca2"
+  },
+  "name": "Maestro",
+  "distribution": [
+    "Saudi Arabia"
+  ],
+  "manufacturer": "Ülker",
+  "description": "Chocolate over peanut butter nougat",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca3"
+  },
+  "name": "Malagos",
+  "distribution": [
+    "Philippines"
+  ],
+  "manufacturer": "Malagos Agri-Ventures",
+  "description": "Dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca4"
+  },
+  "name": "Malted Milk",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Neilson",
+  "description": "\"Milk chocolate, caramel, malted milk; lighter, fluffier and longer than Mars bars\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca5"
+  },
+  "name": "Maracaibo 65",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sucré Chocolates",
+  "description": "Bittersweet chocolate from the rarest Venezuelan cocoa bean",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca6"
+  },
+  "name": "Marathon",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Mars",
+  "description": "Twisted caramel in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca7"
+  },
+  "name": "Marble Chocolate",
+  "distribution": [
+    "Japan"
+  ],
+  "manufacturer": "Meiji",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca8"
+  },
+  "name": "Mars Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Mars",
+  "description": "Vanilla nougat with almonds and milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ca9"
+  },
+  "name": "Mars Bar",
+  "distribution": [
+    "\"United Kingdom",
+    " Outside United States\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Nougat mousse topped with caramel and coated in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824caa"
+  },
+  "name": "Mars Bar Lava",
+  "distribution": [
+    "\"Australia",
+    "New Zealand\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Orange-flavored nougat center",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cab"
+  },
+  "name": "M-Azing",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Mars",
+  "description": "Milk chocolate with mini M\u0026M's",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cac"
+  },
+  "name": "Meiji Almond",
+  "distribution": [
+    "Japan"
+  ],
+  "manufacturer": "Meiji",
+  "description": "Milk chocolate with almonds in the center",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cad"
+  },
+  "name": "Mekupelet",
+  "distribution": [
+    "Israel"
+  ],
+  "manufacturer": "Strauss-Elite",
+  "description": "\"Milk chocolate folded over, with thin layers of chocolate separated by air; similar to aerated chocolate but with folds instead of bubbles\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cae"
+  },
+  "name": "Menthe",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sulpice Chocolat",
+  "description": "Painted chocolate bar - mint essence and cocoa nibs in dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824caf"
+  },
+  "name": "Milk Shake",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hollywood Candy Co.",
+  "description": "Chocolate nougat and caramel in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb0"
+  },
+  "name": "Milka",
+  "distribution": [
+    "\"Germany",
+    " Turkey",
+    " United Kingdom",
+    " Italy",
+    " Austria",
+    " Netherlands",
+    " Poland",
+    " Czech Republic",
+    " Spain",
+    " Ukraine",
+    " Russia\""
+  ],
+  "manufacturer": "Kraft Foods",
+  "description": "\"Milk chocolate with hazelnut, peanut and almond pastes incorporated\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb1"
+  },
+  "name": "Milky Bar",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United Kingdom",
+    " India",
+    " Ireland",
+    " Denmark\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "White chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb2"
+  },
+  "name": "Milky Way",
+  "distribution": [
+    "\"United States",
+    " Ireland",
+    " United Kingdom\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Chocolate nougat with caramel in chocolate coating. Pictured are American and British Milky Way candy bars. There is no caramel in the British version.",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb3"
+  },
+  "name": "Milky Way",
+  "distribution": [
+    "\"New Zealand",
+    " Europe",
+    " Australia\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Whipped nougat in chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb4"
+  },
+  "name": "Milky Way Midnight",
+  "distribution": [
+    "\"United Kingdom",
+    " Worldwide\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Dark chocolate with a vanilla nougat caramel center",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb5"
+  },
+  "name": "Milo Bar",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " South Africa\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb6"
+  },
+  "name": "Mint krokant",
+  "distribution": [
+    "Sweden"
+  ],
+  "manufacturer": "Marabou",
+  "description": "Mint almond toffee with milk chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb7"
+  },
+  "name": "Mirage",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Bubbly milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb8"
+  },
+  "name": "Moka",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sulpice Chocolat",
+  "description": "Painted chocolate bar - coffee and cocoa nibs in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cb9"
+  },
+  "name": "Moro",
+  "distribution": [
+    "\"New Zealand",
+    " Ireland",
+    " Australia\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Nougat-like chocolate mousse and biscuit topped with caramel and coated in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cba"
+  },
+  "name": "Mounds",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "Sweetened coconut enrobed in dark or milk chocolate; introduced in 1921",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cbb"
+  },
+  "name": "Mountain Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Brown and Haley",
+  "description": "\"Vanilla, cherry, or peanut butter creme filling, covered in chocolate and peanuts, in the shape of Mount Rainier\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cbc"
+  },
+  "name": "Mousse",
+  "distribution": [
+    "\"Australia",
+    " South Africa\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Milk chocolate with a rich soft chocolate filling",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cbd"
+  },
+  "name": "Mr. Big",
+  "distribution": [
+    "\"Canada",
+    " Worldwide\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Crisped rice, peanuts, and a vanilla fudge center covered in Cadbury milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cbe"
+  },
+  "name": "Mr. Goodbar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey[3]",
+  "description": "Peanuts in granular milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cbf"
+  },
+  "name": "Munchies",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Caramel covered crisp biscuit coated in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc0"
+  },
+  "name": "Neapolitan Coconut Slice",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Friesinger's Candies",
+  "description": "Tri-coloured coconut bar - strawberry/vanilla/chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc1"
+  },
+  "name": "Nestlé Crunch",
+  "distribution": [
+    "\"United States",
+    " India",
+    " United Kingdom",
+    " Canada",
+    " South Africa",
+    " Turkey",
+    " Brazil\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Chocolate bar with crisped rice",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc2"
+  },
+  "name": "Nestlé Milk Chocolate",
+  "distribution": [
+    "\"United States",
+    " Turkey\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Solid milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc3"
+  },
+  "name": "Nestlé Triple Decker bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Three-layer bar consisting of a bottom layer of milk chocolate, middle layer of white chocolate and top layer of dark chocolate; approx. 2.5\"\" square\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc4"
+  },
+  "name": "Nestlé White",
+  "distribution": [
+    "\"United States",
+    " Denmark\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "White chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc5"
+  },
+  "name": "Nickel Lunch",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "",
+  "description": "Peanuts in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc6"
+  },
+  "name": "Noisette",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sulpice Chocolat",
+  "description": "Painted chocolate bar - caramelised hazelnuts in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc7"
+  },
+  "name": "Nougatti",
+  "distribution": [
+    "\"Belgium",
+    " worldwide\""
+  ],
+  "manufacturer": "Côte d'Or",
+  "description": "Chewy and nutty nougat made with chopped hazelnuts covered in Côte d'Or milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc8"
+  },
+  "name": "Nut Goodie",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Pearson's Candy Company",
+  "description": "\"Chocolate, peanuts and maple\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cc9"
+  },
+  "name": "Nut Lovers",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cca"
+  },
+  "name": "NutRageous",
+  "distribution": [
+    "\"United States",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Peanut butter, caramel, and peanuts in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ccb"
+  },
+  "name": "Nuts",
+  "distribution": [
+    "\"United Kingdom",
+    " Europe\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Nougat and hazelnuts covered with chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ccc"
+  },
+  "name": "Oh Henry!",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "\"Nestlé, Hershey in Canada\"",
+  "description": "Caramel fudge center with peanuts and milk chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ccd"
+  },
+  "name": "Old Faithful",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Idaho Candy Company",
+  "description": "\"Marshmallow center, covered with chocolate and whole peanuts\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cce"
+  },
+  "name": "Pal-o-mine",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Ganong Bros. Limited",
+  "description": "Soft fudge center with peanuts covered in dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ccf"
+  },
+  "name": "PB Max",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Mars",
+  "description": "\"Creamy peanut butter and oats on top of a square-shaped whole grain cookie, enrobed in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd0"
+  },
+  "name": "Peanut Slab",
+  "distribution": [
+    "\"New Zealand",
+    " Australia\""
+  ],
+  "manufacturer": "Whittaker's",
+  "description": "Peanut infused chocolate slab",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd1"
+  },
+  "name": "Penguin",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "McVitie's",
+  "description": "Milk-chocolate covered biscuit filled with chocolate cream",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd2"
+  },
+  "name": "Pep",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Neilson",
+  "description": "Dark chocolate with peppermint cream filling",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd3"
+  },
+  "name": "Peppermint Crisp",
+  "distribution": [
+    "\"Australia",
+    " South Africa\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Peppermint \"\"cracknel\"\" in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd4"
+  },
+  "name": "Perky Nana",
+  "distribution": [
+    "New Zealand"
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Banana flavored chew bar covered in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd5"
+  },
+  "name": "Pesek Zman",
+  "distribution": [
+    "Israel"
+  ],
+  "manufacturer": "Strauss-Elite",
+  "description": "chocolate coated hazelnut cream filled wafer",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd6"
+  },
+  "name": "Picnic",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United Kingdom",
+    " Ireland",
+    " Ukraine\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Peanuts, caramel, wafers and crisped rice in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd7"
+  },
+  "name": "Pistache",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sulpice Chocolat",
+  "description": "\"Painted chocolate bar - pistachios, cardamom and orange in dark chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd8"
+  },
+  "name": "Pistachio and Rose Petal Chocolate Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sucré Chocolates",
+  "description": "Milk chocolate studded with Sicilian pistachios and candied rose petals",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cd9"
+  },
+  "name": "Polly Waffle",
+  "distribution": [
+    "Australia"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Marshmallow-filled wafers in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cda"
+  },
+  "name": "Powerhouse",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Peter Paul",
+  "description": "\"Peanuts, caramel and nougat in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cdb"
+  },
+  "name": "Prince",
+  "distribution": [
+    "Malaysia"
+  ],
+  "manufacturer": "Danone",
+  "description": "Two chocolate-flavored soda cracker wafers in chocolate-flavored coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cdc"
+  },
+  "name": "Prince Polo",
+  "distribution": [
+    "\"Poland",
+    " Iceland\""
+  ],
+  "manufacturer": "Kraft",
+  "description": "Chocolate-covered wafers",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cdd"
+  },
+  "name": "Princessa",
+  "distribution": [
+    "Poland"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Nestlé imitation of Prince Polo; now equally popular",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cde"
+  },
+  "name": "Ragusa",
+  "distribution": [
+    "Switzerland"
+  ],
+  "manufacturer": "Chocolats Camille Bloch SA",
+  "description": "The finest[citation needed] Swiss praline chocolate with whole hazelnuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cdf"
+  },
+  "name": "Raider",
+  "distribution": [
+    "\"Switzerland",
+    " Europe (formerly)\""
+  ],
+  "manufacturer": "",
+  "description": "\"Twix was called Raider in Austria, Belgium, Denmark, Finland, France, Germany, Greece, Italy, Luxembourg, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland and Turkey for many years before its name was changed in 1991 (2000 in Denmark, Finland, Norway, Sweden and Turkey) to match the international brand name.\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce0"
+  },
+  "name": "Rally bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Similar to Baby Ruth - nougat, caramel and peanuts covered in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce1"
+  },
+  "name": "Reese's Crispy Crunchy Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "\"Peanut butter crisp candy with peanut butter and chopped peanuts, in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce2"
+  },
+  "name": "Reese's Fast Break",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "Peanut butter and nougat filling in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce3"
+  },
+  "name": "Reese's Sticks",
+  "distribution": [
+    "\"United States",
+    " Worldwide\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Wafers filled with peanut butter and covered in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce4"
+  },
+  "name": "Ritter Sport",
+  "distribution": [
+    "\"Austria",
+    " Canada",
+    " Denmark",
+    " Germany",
+    " Italy",
+    " the Netherlands",
+    " United Kingdom and Sweden\""
+  ],
+  "manufacturer": "Ritter Sport",
+  "description": "Chocolate bar with various fillings",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce5"
+  },
+  "name": "Rocky Road",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Annabelle Candy Company",
+  "description": "Marshmallow topped with cashews and covered with chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce6"
+  },
+  "name": "Rolo",
+  "distribution": [
+    "\"United Kingdom",
+    " Canada",
+    " United States",
+    " Australia",
+    " The Netherlands",
+    " New Zealand\""
+  ],
+  "manufacturer": "\"Nestlé, Hershey in the US\"",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce7"
+  },
+  "name": "Safari",
+  "distribution": [
+    "\"India",
+    " Saudi Arabia",
+    " Lebanon",
+    " Egypt and the Philippines\""
+  ],
+  "manufacturer": "Gandour",
+  "description": "Chocolate coated on caramel covered wafer sandwich",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce8"
+  },
+  "name": "Salted Pretzel",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sucré Chocolates",
+  "description": "Swiss milk chocolate with salted pretzel twists",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ce9"
+  },
+  "name": "Sarris Chocolate Covered Pretzels",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sarris Candies",
+  "description": "Chocolate covered pretzels",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cea"
+  },
+  "name": "Sasha Chocolate Goldleaf",
+  "distribution": [
+    "South Korea"
+  ],
+  "manufacturer": "Lotte",
+  "description": "Chocolate with real gold leaf layering",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ceb"
+  },
+  "name": "Skor",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Crunchy butter toffee in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cec"
+  },
+  "name": "Sky Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Necco",
+  "description": "\"Four sections: caramel, vanilla, peanut butter and fudge fillings, milk chocolate coating\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824ced"
+  },
+  "name": "Smooth Sailin'",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hollywood Candy Co.",
+  "description": "\"Nougat with walnut pieces, covered in dark chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cee"
+  },
+  "name": "S'mores",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cef"
+  },
+  "name": "Snickers",
+  "distribution": [
+    "\"United States",
+    " Worldwide\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Peanut butter nougat with caramel and peanuts in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf0"
+  },
+  "name": "Spira",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Two milk chocolate 'twists' with holes running through the middle",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf1"
+  },
+  "name": "Starbar",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Creamy peanut butter, light rice crisps and caramel covered with milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf2"
+  },
+  "name": "Sublime",
+  "distribution": [
+    "Peru"
+  ],
+  "manufacturer": "D'Onofrio",
+  "description": "Milk chocolate with peanuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf3"
+  },
+  "name": "Sweet Marie",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Cadbury (originally Willard's)",
+  "description": "Fudge center with peanuts and crisped rice covered in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf4"
+  },
+  "name": "Swirled Caramel \u0026 Salted Peanut",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Sucré Chocolates",
+  "description": "Double cream Swiss milk chocolate swirled with vanilla caramel and sprinkled with salted peanuts",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf5"
+  },
+  "name": "Take 5",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey",
+  "description": "Layer of caramel and peanut butter over pretzels and peanuts in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf6"
+  },
+  "name": "Tango",
+  "distribution": [
+    "Azerbaijan"
+  ],
+  "manufacturer": "Ulduz",
+  "description": "Chocolate bar with almonds",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf7"
+  },
+  "name": "Tim Tam",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United States",
+    " some Southeast Asian countries\""
+  ],
+  "manufacturer": "Arnott's",
+  "description": "\"Chocolate covered biscuit/cookie filled with chocolate cream and other ingredients. There are five varieties: milk chocolate, dark chocolate, white chocolate, caramel, and double-coated.\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf8"
+  },
+  "name": "Time Out",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Wafers with a flake center, covered in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cf9"
+  },
+  "name": "Tin Larin",
+  "distribution": [
+    "\"Mexico",
+    " Latin America\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Wafers and peanut butter in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cfa"
+  },
+  "name": "To'ak Chocolate",
+  "distribution": [
+    "Ecuador"
+  ],
+  "manufacturer": "To'ak Chocolate",
+  "description": "hand made from the rare Nacional variety of cocoa bean",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cfb"
+  },
+  "name": "Toblerone",
+  "distribution": [
+    "\"Switzerland",
+    " India",
+    " Turkey",
+    " Netherlands",
+    " Canada",
+    " Australia",
+    " New Zealand",
+    " South Africa",
+    " United Kingdom",
+    " Ireland",
+    " United States",
+    " France",
+    " Germany",
+    " Norway",
+    " Italy\""
+  ],
+  "manufacturer": "Kraft Foods",
+  "description": "Solid chocolate with chewy almond nougat bits",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cfc"
+  },
+  "name": "Toffee Crisp",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Crisped rice and soft caramel in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cfd"
+  },
+  "name": "Toffifee (also known as Toffifay)",
+  "distribution": [
+    "\"Canada",
+    " UK",
+    " United States",
+    " Germany",
+    " Netherlands",
+    " Sweden",
+    " Denmark",
+    " Poland",
+    " Czech Republic\""
+  ],
+  "manufacturer": "Storck",
+  "description": "Caramel with nougat and hazelnuts in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cfe"
+  },
+  "name": "Tony's Chocolonely",
+  "distribution": [
+    "\"United States",
+    " Netherlands\""
+  ],
+  "manufacturer": "Tony's Chocolonely",
+  "description": "Milk and dark chocolate with various added flavors",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824cff"
+  },
+  "name": "Top Deck",
+  "distribution": [
+    "\"South Africa",
+    " Australia\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "White chocolate peaks layered on top of a milk chocolate base",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d00"
+  },
+  "name": "Topic",
+  "distribution": [
+    "\"Poland",
+    " United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Masterfoods Polska",
+  "description": "\"Hazelnuts, nougat and caramel in milk chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d01"
+  },
+  "name": "TopValu",
+  "distribution": [
+    "\"Hong Kong",
+    " Japan",
+    " Malaysia\""
+  ],
+  "manufacturer": "Æon",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d02"
+  },
+  "name": "Torino",
+  "distribution": [
+    "Switzerland"
+  ],
+  "manufacturer": "Chocolats Camille Bloch SA",
+  "description": "Chocolate bar filled with almond-hazelnut praline",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d03"
+  },
+  "name": "Túró Rudi",
+  "distribution": [
+    "Hungary"
+  ],
+  "manufacturer": "Túró Rudi",
+  "description": "\"Cream cheese, chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d04"
+  },
+  "name": "Turtles",
+  "distribution": [
+    "\"Canada",
+    " United States\""
+  ],
+  "manufacturer": "\"Nestle, US distribution by DeMet's Candy Company\"",
+  "description": "\"Chocolate, caramel, pecan, and cashew clusters\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d05"
+  },
+  "name": "Twin Bing",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Palmer Candy Co.",
+  "description": "Cherry cream center with chocolate/peanut coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d06"
+  },
+  "name": "Twirl",
+  "distribution": [
+    "\"New Zealand",
+    " Australia",
+    " United States",
+    " Ireland",
+    " United Kingdom\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Long flakes of milk chocolate covered in a chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d07"
+  },
+  "name": "Twix",
+  "distribution": [
+    "\"United States",
+    " Worldwide\""
+  ],
+  "manufacturer": "Mars",
+  "description": "Cookie bar with two fingers of shortcake biscuit base topped with caramel and covered in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d08"
+  },
+  "name": "U-No Bar",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Annabelle Candy Company",
+  "description": "\"Milk chocolate truffle-like center, covered with milk chocolate and ground almonds\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d09"
+  },
+  "name": "Vice Versas",
+  "distribution": [
+    "United Kingdom"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "\"Milk chocolate covered in white sugar coating, and white chocolate cover in chocolate sugar coating\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d0a"
+  },
+  "name": "Violet Crumble",
+  "distribution": [
+    "Australia"
+  ],
+  "manufacturer": "Robern Menz",
+  "description": "Aerated crunchy honeycomb-like center in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d0b"
+  },
+  "name": "Walnut Crush",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Fenn",
+  "description": "white nougat and walnuts covered in dark chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d0c"
+  },
+  "name": "Welch's Fudge",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "James O. Welch Co.",
+  "description": "Chocolate fudge bar with chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d0d"
+  },
+  "name": "Whatchamacallit",
+  "distribution": [
+    "United States"
+  ],
+  "manufacturer": "Hershey[3]",
+  "description": "Peanut-flavored crisp with caramel in chocolate coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d0e"
+  },
+  "name": "Whip",
+  "distribution": [
+    "Australia"
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Fluffy nougat and caramel in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d0f"
+  },
+  "name": "White Knight",
+  "distribution": [
+    "Australia"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Chewy mint nougat in milk chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d10"
+  },
+  "name": "Whittaker's",
+  "distribution": [
+    "New Zealand"
+  ],
+  "manufacturer": "J.H. Whittaker \u0026 Sons",
+  "description": "\"Chocolate blocks, toffee milk, k-bar, slabs, mini slabs, chunks, squares, sante\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d11"
+  },
+  "name": "Willocrisp",
+  "distribution": [
+    "Canada"
+  ],
+  "manufacturer": "Neilson",
+  "description": "Crispy peanut butter in a chocolatey coating",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d12"
+  },
+  "name": "Wispa",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "Smooth velvety chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d13"
+  },
+  "name": "Wonka Bar",
+  "distribution": [
+    "\"New Zealand",
+    " United States",
+    " Australia",
+    " United Kingdom",
+    " South Africa\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Graham cracker bits in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d14"
+  },
+  "name": "Wonka Mud Sludge",
+  "distribution": [
+    "Australia"
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Fudge center in chocolate",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d15"
+  },
+  "name": "Woodies",
+  "distribution": [
+    "Belgium"
+  ],
+  "manufacturer": "Cavalier",
+  "description": "Milk chocolate bar with hazelnut or orange filling and a biscuit",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d16"
+  },
+  "name": "Wunderbar",
+  "distribution": [
+    "\"Canada",
+    " Germany\""
+  ],
+  "manufacturer": "Cadbury",
+  "description": "\"Creamy peanut butter, light rice crisps and caramel covered with milk chocolate; the Canadian and German equivalent of Cadbury's Starbar\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d17"
+  },
+  "name": "Yankie Bar",
+  "distribution": [
+    "Denmark"
+  ],
+  "manufacturer": "Toms International",
+  "description": "\"Caramel, nougat, and milk chocolate bar\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d18"
+  },
+  "name": "York Bar",
+  "distribution": [
+    "\"Canada",
+    " United States\""
+  ],
+  "manufacturer": "Mars",
+  "description": "",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d19"
+  },
+  "name": "York Peppermint Pattie",
+  "distribution": [
+    "\"United States",
+    " Worldwide\""
+  ],
+  "manufacturer": "Hershey",
+  "description": "Mint-flavored filling in compound chocolate; contains polyglycerol polyricinoleate as a substitute for cocoa butter",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d1a"
+  },
+  "name": "Yorkie",
+  "distribution": [
+    "\"United Kingdom",
+    " Ireland\""
+  ],
+  "manufacturer": "Nestlé",
+  "description": "Chunky chocolate bar",
+  "_class": "com.adamclmns.data.CandyBar"
+}
+{
+  "_id": {
+    "$oid": "5c28f1f9e4b8a52d70824d1b"
+  },
+  "name": "Zero Bar",
+  "distribution": [
+    "\"United States",
+    " Canada\""
+  ],
+  "manufacturer": "Hershey[4]",
+  "description": "\"Caramel, peanut and nougat covered with white chocolate\"",
+  "_class": "com.adamclmns.data.CandyBar"
+}

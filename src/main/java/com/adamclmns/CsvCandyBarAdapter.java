@@ -28,19 +28,19 @@ class CsvCandyBarAdapter {
         CandyBar thisBar = new CandyBar();
         for (int i = 0; i < headers.size(); i++) {
             String header = headers.get(i).replaceAll(" ", "");
-            if (i == 0)
+            if (i == 0) {
                 //LOG.warn("I is ZERO - header ::"+header+":: the value? "+header.equalsIgnoreCase("Name"));
-
-                if (i == 0)
-                    thisBar.setName(row.get(i));
-                else if (header.equalsIgnoreCase("Manufacturer"))
-                    thisBar.setManufacturer(row.get(i));
-                else if (header.equalsIgnoreCase("Distribution"))
-                    thisBar.setDistribution(Arrays.asList(row.get(i).split(",")));
-                else if (header.equalsIgnoreCase("Description")) {
-                    if (i < row.size())
-                        thisBar.setDescription(row.get(i));
-                }
+            }
+            if (i == 0)
+                thisBar.setName(row.get(i));
+            else if (header.equalsIgnoreCase("Manufacturer"))
+                thisBar.setManufacturer(row.get(i));
+            else if (header.equalsIgnoreCase("Distribution"))
+                thisBar.setDistribution(Arrays.asList(row.get(i).split(",")));
+            else if (header.equalsIgnoreCase("Description")) {
+                if (i < row.size())
+                    thisBar.setDescription(row.get(i));
+            }
 
         }
         //LOG.warn(thisBar.toString());
@@ -57,7 +57,7 @@ class CsvCandyBarAdapter {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < characters.length; i++) {
             if (characters[i] == delimiter && !encapsulated) {
-                splitRow.add(sb.toString());
+                splitRow.add(sb.toString().trim());
                 sb = new StringBuilder();
             } else if (characters[i] == encapsulator) {
                 encapsulated = !encapsulated;
@@ -66,7 +66,8 @@ class CsvCandyBarAdapter {
                 sb.append(characters[i]);
             }
         }
-        splitRow.add(sb.toString());
+        splitRow.add(sb.toString().trim());
+        LOG.warn("PARSED ::" + splitRow);
         return splitRow;
     }
 
@@ -76,12 +77,15 @@ class CsvCandyBarAdapter {
         try (FileReader fr = new FileReader(filename); Scanner scanner = new Scanner(fr)) {
             // Establish the Headers
             if (scanner.hasNext()) {
-                fieldNames.addAll(Arrays.asList(scanner.nextLine().split(",")));
+                String[] rawHeaders = (scanner.nextLine().split(","));
+                for (String header : rawHeaders) {
+                    fieldNames.add(header.trim());
+                }
                 LOG.warn("Headers : " + fieldNames);
+
             }
             while (scanner.hasNext()) {
                 String row = scanner.nextLine();
-                LOG.warn(row);
                 candyBars.add(candyBarFromExcelRow(row, fieldNames));
             }
         } catch (FileNotFoundException e) {

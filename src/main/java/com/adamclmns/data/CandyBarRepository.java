@@ -17,4 +17,6 @@ public interface CandyBarRepository extends Repository<CandyBar, Long> {
     List<CandyBar> findAllByManufacturerIsLike(String manufacturer);
 
     List<CandyBar> findAllByDistributionContaining(String distribution);
+
+    void deleteAll();
 }

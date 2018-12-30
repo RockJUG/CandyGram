@@ -16,13 +16,20 @@ import java.util.List;
 public class MongoSyncExample {
 
     private static final Logger logger = LoggerFactory.getLogger(MongoSyncExample.class);
-    // MongoDB Credentials are managed here -
+    // MongoDB Credentials are managed here for manual connection (No SpringBoot Magic Here.)-
     private final String MONGO_HOST = "localhost";
     private final String MONGO_PORT = "27017";
     private final String MONGO_USER = "";
     private final String MONGO_PASS = "";
     private final String MONGO_PREFIX = "mongodb://";
+    private final String MONGO_COLLECTION = "mongoSyncExample";
+    private final String MONGO_DATABASE = "candyGram";
 
+    /**
+     * Creating a list of "Document" types that we can insert into MongoDB
+     *
+     * @return
+     */
     private List<Document> createDocumentsForInsert() {
         Document kitkat = new Document("name", "kit-kat").append("id", 1L)
                 .append("tags", Arrays.asList("chocolate", "shareable", "crunchy"))
@@ -43,11 +50,17 @@ public class MongoSyncExample {
         return Arrays.asList(kitkat, twix, snickers, gummyWorms);
     }
 
+    /**
+     * This method will connect to the MongoDatabase instance, and then use the configured database name,
+     * and then return the configured collection from that database. If the database or collection do not exist,
+     * and the user connected has Admin rights, the database and collection will be created automatically.
+     * @return
+     */
     private MongoCollection<Document> getConnectionToCollection() {
         MongoClient mongoClient = MongoClients.create(getConnectionString());
         logger.info("Connected to Mongo Instance");
-        MongoDatabase database = mongoClient.getDatabase("candyGram");
-        return database.getCollection("mongoSyncExample");
+        MongoDatabase database = mongoClient.getDatabase(MONGO_DATABASE);
+        return database.getCollection(MONGO_COLLECTION);
     }
 
     public void run() {
@@ -81,6 +94,12 @@ public class MongoSyncExample {
         logger.info("Deleted a Document");
     }
 
+    public void deleteAll() {
+        MongoCollection<Document> collection = getConnectionToCollection();
+
+        collection.deleteMany(Filters.ne("name", null));
+        logger.info("Deleted All");
+    }
     private String getConnectionString() {
         StringBuilder sb = new StringBuilder();
         sb.append(MONGO_PREFIX);

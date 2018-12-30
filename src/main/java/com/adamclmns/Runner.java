@@ -27,9 +27,17 @@ import java.util.List;
 public class Runner implements CommandLineRunner {
 
     private static final Logger logger = LoggerFactory.getLogger(Runner.class);
+    /**
+     * The Candy bar repository.
+     */
     @Autowired
     CandyBarRepository candyBarRepository;
 
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         SpringApplication.run(Runner.class, args);
 
@@ -38,6 +46,8 @@ public class Runner implements CommandLineRunner {
     /**
      * This configures the Generated Swagger File that Swagger UI uses to generate the
      * API Interface
+     *
+     * @return the docket
      */
     @Bean
     public Docket api() {
@@ -48,11 +58,23 @@ public class Runner implements CommandLineRunner {
                 .build();
     }
 
+    /**
+     * This method is run on startup by SpringBoot Framework. This can be thought of as a "main(String[] args)" method
+     * that gets called as your app starts up.
+     *
+     * @param args
+     */
     @Override
     public void run(String[] args) {
-        if ((Arrays.asList(args).contains("sync"))) {
+        if ((Arrays.asList(args).contains("--wipeAllData"))) {
+            this.candyBarRepository.deleteAll();
+            MongoSyncExample ex = new MongoSyncExample();
+            ex.deleteAll();
+        }
+        if ((Arrays.asList(args).contains("--sync"))) {
             this.runMongoSyncExample();
-        } else {
+        }
+        if ((Arrays.asList(args).contains("--loadCsv"))) {
             List<CandyBar> allBars = candyBarRepository.findAll();
             if (allBars.isEmpty()) {
                 logger.warn("Populating Database");
@@ -61,11 +83,16 @@ public class Runner implements CommandLineRunner {
                 List<CandyBar> candyBars = csvCandyBarAdapter.parseCSVToCandyBarList();
                 for (CandyBar candyBar : candyBars) {
                     candyBarRepository.save(candyBar);
+                    logger.warn("SAVED::" + candyBar.toString());
                 }
             }
         }
+
     }
 
+    /**
+     * Runs the MongoSync Example program
+     */
     private void runMongoSyncExample() {
         logger.info(" MongoSync Example");
         MongoSyncExample example = new MongoSyncExample();
