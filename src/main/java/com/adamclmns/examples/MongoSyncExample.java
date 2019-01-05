@@ -33,19 +33,19 @@ public class MongoSyncExample {
     private List<Document> createDocumentsForInsert() {
         Document kitkat = new Document("name", "kit-kat").append("id", 1L)
                 .append("tags", Arrays.asList("chocolate", "shareable", "crunchy"))
-                .append("price", 1.25).append("rating", 4 / 5);
+                .append("price", 1.25).append("rating", 4.0 / 5.0);
 
         Document twix = new Document("name", "twix").append("id", 2L)
                 .append("tags", Arrays.asList("chocolate", "caramel", "shareable", "cruncy"))
-                .append("price", 1.25).append("rating", 5 / 5);
+                .append("price", 1.25).append("rating", 5.0 / 5.0);
 
         Document snickers = new Document("name", "snickers").append("id", 3L)
                 .append("tags", Arrays.asList("chocolate", "caramel", "nuts", "chewy"))
-                .append("price", 1.25).append("rating", 4 / 5);
+                .append("price", 1.25).append("rating", 4.0 / 5.0);
 
         Document gummyWorms = new Document("name", "gummy worms").append("id", 4L)
                 .append("tag", Arrays.asList("fruity", "sour", "shareable", "chewy", "large-size"))
-                .append("price", 2.50).append("rating", 3 / 5);
+                .append("price", 2.50).append("rating", 3.0 / 5.0);
 
         return Arrays.asList(kitkat, twix, snickers, gummyWorms);
     }
